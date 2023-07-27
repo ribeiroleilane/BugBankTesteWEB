@@ -30,8 +30,12 @@ Antes de executar os testes, certifique-se de ter instalado os seguintes compone
     
 3.  Os testes serão executados no navegador Chrome e você poderá acompanhar o progresso no console.
     
-4.  Após a conclusão dos testes, um relatório detalhado será gerado e salvo em `test-output/extent-report.html`.
+4.  Após a conclusão dos testes, um relatório detalhado será gerado e salvo em `test-output/extent-report.html`.   
+     
+5.  Para abrir o relatório detalhado, clique com o botão direito do mouse no arquivo "extent-report.html" e selecione "Open With" (Abrir com) e, em seguida, escolha um navegador da web instalado em seu computador (por exemplo, Google Chrome, Mozilla Firefox, etc.).
     
+6.  O navegador abrirá o arquivo "extent-report.html" e exibirá o relatório do Extent Report com os resultados dos testes automatizados realizados no projeto Selenium e JUnit.
+ 
 
 ## Entendendo a Estrutura do Projeto
 
